@@ -1,0 +1,32 @@
+/* add your CSS here */
+h3 {
+    font-weight: bolder;
+}
+
+span {
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.border_all {
+    border: 1px solid #ccc;
+    padding: 16px 0px 16px 16px;
+    box-shadow: 3px 3px 5px 6px #ccc;
+    width: 320px;
+}
+
+.border_2 {
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    padding: 0px 10px 0px 10px;
+    width: 300px;
+    box-sizing: border-box;
+}
+
+img {
+    width: 300px;
+}
